@@ -1,2 +1,2 @@
 # golangbot-tutorial
-Exploring Golang by passing tutorial from golangbot.com
+Exploring Go by passing ["Golang tutorial series"](https://golangbot.com/learn-golang-series/) from golangbot.com
